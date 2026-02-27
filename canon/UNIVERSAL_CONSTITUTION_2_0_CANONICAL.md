@@ -1,5 +1,6 @@
 # UNIVERSAL CONSTITUTION 2.0  
 Version 1.2 — Canonical Edition (2025-11-18)
+Status: Canonical — Immutable
 
 ## PREAMBLE
 
@@ -151,3 +152,28 @@ Act so that freedom, growth, and harmony can unfold.
 This canon expresses timeless principles.  
 Applications may evolve as understanding deepens,  
 but the axioms remain the foundation.
+
+---
+
+# Licensing & Canonical Integrity
+
+Universal Constitution 2.0  
+Version 1.2 — Canonical Edition (2025-11-18)
+
+This Canon is licensed under:
+
+Creative Commons Attribution–NoDerivatives 4.0 International (CC BY-ND 4.0)
+
+You may share, distribute, and reference this text.
+Commentary, critique, academic analysis, and jurisprudential discussion are explicitly permitted and encouraged, provided the canonical text itself remains unchanged.
+
+You may not:
+- Modify the wording
+- Publish derivatives under the same name
+- Reissue this text under a modified or incremented version label (e.g., 2.1, 3.0) without the author’s explicit consent.
+- Present altered text as canonical
+
+Alternative frameworks are welcome under different names.
+
+Full license:
+https://creativecommons.org/licenses/by-nd/4.0/
