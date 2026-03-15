@@ -13,6 +13,7 @@ Jurisprudence refines interpretation without altering the Canon.
 
 | Case | Title | Type | Core Issue |
 |-----|------|------|------------|
+| 0000 | Canonical Supremacy| Structural boundary |
 | 0001 | Giving Money to a Homeless Person | Ethical Boundary | Responsibility vs autonomy |
 | 0002 | Knife Threat / Self-Defense | Ethical Boundary | Self-defense vs non-violence |
 | 0003 | Lost Child / Hidden Abuse Risk | Ethical Boundary | Protection vs premature assumptions |
