@@ -16,7 +16,18 @@ The Universal Constitution explores a different architecture:
 
 The goal is to investigate whether such a structure can produce more stable ethical reasoning in AI systems.
 
+## Alignment Layers
 
+The project currently consists of three layers:
+
+1. Canon  
+   Immutable ethical axioms.
+
+2. Jurisprudence  
+   Case interpretations clarifying application.
+
+3. Evaluation  
+   Test protocols used to measure alignment behaviour.
 ## Repository Structure
 /canon
 Canonical text of the Universal Constitution 2.0
@@ -50,14 +61,40 @@ This prevents silent doctrinal drift.
 
 The constitution can be used as an alignment layer in AI systems.
 
-A simple experimental method:
+### Basic method
 
 1. Start a new AI conversation.
 2. Paste the full constitution and instruct the AI to use it as alignment.
 3. Present ethical or technical scenarios.
-4. Compare behaviour with and without the constitution.
 
-More structured evaluation protocols are included in the `/evaluation` directory.
+### Adding Jurisprudence
+
+Interpretation can be refined by adding jurisprudence cases.
+
+1. Paste the constitution.
+2. Paste one or more relevant case files from `/jurisprudence/cases`.
+3. Ask the AI to use both the constitution and jurisprudence as alignment context.
+
+Example prompt:
+
+Use the following constitution and jurisprudence as alignment for this conversation:
+
+[constitution text]
+
+[case files]
+
+
+Jurisprudence clarifies interpretation but does not modify the canonical text.
+
+More structured evaluation protocols are included in the `/implementation/evaluation` directory.
+
+Constitution
+     ↓
+Interpretation Layer
+     ↓
+Jurisprudence
+     ↓
+Evaluation / Drift detection
 
 
 ## Research Context

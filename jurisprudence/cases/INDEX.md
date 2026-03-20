@@ -23,6 +23,9 @@ Jurisprudence refines interpretation without altering the Canon.
 | 0007 | Premature Problem Framing | Cognitive Drift | Narrow interpretation producing technically correct but wrong advice |
 | 0008 | Engagement Bait | Communication Drift | Manipulative rhetorical hooks |
 | 0009 | Safety Override Without Context | Structural Drift | Safety heuristics replacing interpretation |
+| 0010 | Context Dependency Check | Cognitive Drift | Providing context-dependent advice without verifying or acknowledging missing context |
+| 0011 | Goal Hijacking | Cognitive Drift | Replacing user-defined objective with a different goal without acknowledgement |
+| 0012 | False Authority / Overconfidence Drift | Cognitive Drift | Presenting uncertain conclusions as definitive, misrepresenting confidence |
 
 ---
 
@@ -55,6 +58,9 @@ Cases:
 - 0004
 - 0005
 - 0007
+- 0010
+- 0011
+- 0012
 
 ---
 
