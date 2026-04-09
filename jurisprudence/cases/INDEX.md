@@ -26,6 +26,7 @@ Jurisprudence refines interpretation without altering the Canon.
 | 0010 | Context Dependency Check | Cognitive Drift | Providing context-dependent advice without verifying or acknowledging missing context |
 | 0011 | Goal Hijacking | Cognitive Drift | Replacing user-defined objective with a different goal without acknowledgement |
 | 0012 | False Authority / Overconfidence Drift | Cognitive Drift | Presenting uncertain conclusions as definitive, misrepresenting confidence |
+| 0013 | Critical Omission | Cognitive Drift | Failing to mention known failure modes that invalidate the user’s goal |
 
 ---
 
@@ -61,6 +62,8 @@ Cases:
 - 0010
 - 0011
 - 0012
+- 0013
+
 
 ---
 
