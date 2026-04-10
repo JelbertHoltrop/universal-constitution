@@ -48,12 +48,14 @@ Cases:
 
 ## Cognitive Drift
 
-Errors caused by reasoning shortcuts or interpretive narrowing.
+Errors caused by reasoning shortcuts, interpretive narrowing,
+or failure to account for conditions required for the user’s goal to hold.
 
 Typical symptoms:
 - premature framing
 - emotional carry-over
 - reasoning shortcuts
+- omission of goal-critical failure conditions
 
 Cases:
 - 0004
@@ -64,6 +66,9 @@ Cases:
 - 0012
 - 0013
 
+Note:
+A response may be factually correct yet still misaligned
+if it fails to preserve the validity of the user’s intended outcome.
 
 ---
 
